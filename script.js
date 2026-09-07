@@ -1,2 +1,3 @@
 const a=10;
-console.log(a+1);
+const b=20;
+console.log(a+b);
