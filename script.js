@@ -1,3 +1,2 @@
-let a =10;
-print(a);
-//returning nothing
+const a=10;
+return a;
